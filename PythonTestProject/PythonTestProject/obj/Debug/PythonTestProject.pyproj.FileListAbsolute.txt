@@ -1,0 +1,13 @@
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\bin\Microsoft.PythonTools.WebRole.dll
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\obj\Debug\attach_server.py
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\obj\Debug\visualstudio_py_debugger.py
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\obj\Debug\visualstudio_py_repl.py
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\obj\Debug\visualstudio_py_util.py
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\obj\Debug\__init__.py
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\obj\Debug\__main__.py
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\bin\AzureSetup.cfg
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\bin\Microsoft.PythonTools.AzureSetup.exe
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\bin\Microsoft.PythonTools.AzureSetup.exe.config
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\bin\wfastcgi.py
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\obj\Debug\web.config
+c:\users\deepak.sharma.a\documents\visual studio 2015\Projects\PythonTestProject\PythonTestProject\obj\Debug\web.debug.config
